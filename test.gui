@@ -1,0 +1,3 @@
+<window size="800 600" name="Test">
+	<button position="0 100" text="Balls?" side="bottom" function="printtest" />
+</window>

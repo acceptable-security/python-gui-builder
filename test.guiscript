@@ -1,0 +1,4 @@
+def printtest():
+	tkMessageBox.showinfo("Balls","You have clicked the balls.")
+
+self.functions["printtest"] = printtest
